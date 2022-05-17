@@ -20,9 +20,7 @@ header{
     justify-content: space-between;
     background: var(--secondary-color);
 }
-header h1{
-    line-height: 0px;
-}
+
 .search{
     background: transparent;
     border: 2px solid var(--primary-color);
